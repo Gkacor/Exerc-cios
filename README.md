@@ -1,2 +1,5 @@
 # Exerc-cios
-Exercícios de programação.
+Exercícios:
+Faculdade Engenharia de Software
+Bootcamps
+Outros
